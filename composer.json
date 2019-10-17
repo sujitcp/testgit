@@ -1,0 +1,11 @@
+{
+    "name": "sujit/testgit",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sujit",
+            "email": "sujit@lessohome.com"
+        }
+    ],
+    "require": {}
+}
