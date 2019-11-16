@@ -11,9 +11,6 @@
         "magento/magento-composer-installer": "*",
         "composer/installers": "~1.0"
      },
-     "extra": {
-        "installer-paths": {
-            "app/code/Sujit/Testgit": ["vendor/sujit"]
-        }
+     "extra": { "map": [ [ "*", "vendor\/sujit" ] ] }
     }
 }
