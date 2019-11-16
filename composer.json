@@ -13,7 +13,7 @@
      },
      "extra": {
         "installer-paths": {
-            "app/code/Sujit/Testgit": ["vendor/module"]
+            "app/code/Sujit/Testgit": ["vendor/sujit"]
         }
     }
 }
