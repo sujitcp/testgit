@@ -1,6 +1,6 @@
 {
     "name": "sujit/testgit",
-    "type": "magento2-module",
+    "type": "magento2-library",
     "authors": [
         {
             "name": "sujit",
