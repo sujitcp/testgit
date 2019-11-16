@@ -1,11 +1,19 @@
 {
     "name": "sujit/testgit",
-    "type": "library",
+    "type": "magento2-module",
     "authors": [
         {
             "name": "sujit",
             "email": "sujit@lessohome.com"
         }
     ],
-    "require": {}
+    "require": {
+        "magento/magento-composer-installer": "*",
+        "composer/installers": "~1.0"
+     },
+     "extra": {
+        "installer-paths": {
+            "app/code/Sujit/Testgit": ["vendor/module"]
+        }
+    }
 }
